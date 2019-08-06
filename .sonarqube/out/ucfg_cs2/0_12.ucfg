@@ -1,0 +1,80 @@
+
+mTailSpin.SpaceGame.Web.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)r
+hC:\Users\emassaquoi\Courses\AzureDevOps\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Startup.cs (%"0*¥
+0ñ
+ì
+r
+hC:\Users\emassaquoi\Courses\AzureDevOps\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Startup.cs (A
+%0;Microsoft.Extensions.DependencyInjection.IServiceCollection"µMicrosoft.Extensions.DependencyInjection.OptionsServiceCollectionExtensions.Configure<TOptions>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<TOptions>)*O"M
+KMicrosoft.Extensions.DependencyInjection.OptionsServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""Ÿ
+÷
+r
+hC:\Users\emassaquoi\Courses\AzureDevOps\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Startup.cs (:
+%14Microsoft.Extensions.DependencyInjection.IMvcBuilder"ãMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddMvc(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
+GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionã
+à
+r
+hC:\Users\emassaquoi\Courses\AzureDevOps\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Startup.cs6 (V
+%2"__id*
+""á
+Ñ
+r
+hC:\Users\emassaquoi\Courses\AzureDevOps\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Startup.cs (W:
+%34Microsoft.Extensions.DependencyInjection.IMvcBuilder"¡Microsoft.Extensions.DependencyInjection.MvcCoreMvcBuilderExtensions.SetCompatibilityVersion(Microsoft.Extensions.DependencyInjection.IMvcBuilder, Microsoft.AspNetCore.Mvc.CompatibilityVersion)*H"F
+DMicrosoft.Extensions.DependencyInjection.MvcCoreMvcBuilderExtensions*<
+:
+%14Microsoft.Extensions.DependencyInjection.IMvcBuilder*
+
+%2Á‰
+r
+hC:\Users\emassaquoi\Courses\AzureDevOps\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Startup.cs!@ !(9
+%43TailSpin.SpaceGame.Web.LocalDocumentDBRepository<T>"3TailSpin.SpaceGame.Web.LocalDocumentDBRepository<T>ü
+ú
+r
+hC:\Users\emassaquoi\Courses\AzureDevOps\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Startup.cs!D !(d
+
+%5void"UTailSpin.SpaceGame.Web.LocalDocumentDBRepository<T>.LocalDocumentDBRepository(string)*;
+9
+%43TailSpin.SpaceGame.Web.LocalDocumentDBRepository<T>*
+""¿
+Ω
+s
+hC:\Users\emassaquoi\Courses\AzureDevOps\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Startup.cs! !(ÄA
+%6;Microsoft.Extensions.DependencyInjection.IServiceCollection"©Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddSingleton<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection, TService)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*;
+9
+%43TailSpin.SpaceGame.Web.LocalDocumentDBRepository<T>ËÂ
+s
+hC:\Users\emassaquoi\Courses\AzureDevOps\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Startup.cs"B "(Ö9
+%73TailSpin.SpaceGame.Web.LocalDocumentDBRepository<T>"3TailSpin.SpaceGame.Web.LocalDocumentDBRepository<T>ü
+ú
+r
+hC:\Users\emassaquoi\Courses\AzureDevOps\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Startup.cs"F "(h
+
+%8void"UTailSpin.SpaceGame.Web.LocalDocumentDBRepository<T>.LocalDocumentDBRepository(string)*;
+9
+%73TailSpin.SpaceGame.Web.LocalDocumentDBRepository<T>*
+""¿
+Ω
+s
+hC:\Users\emassaquoi\Courses\AzureDevOps\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Startup.cs" "(ÜA
+%9;Microsoft.Extensions.DependencyInjection.IServiceCollection"©Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddSingleton<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection, TService)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*;
+9
+%73TailSpin.SpaceGame.Web.LocalDocumentDBRepository<T>*
+1*è
+1"â
+r
+hC:\Users\emassaquoi\Courses\AzureDevOps\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Startup.cs# #(	
+implicit return:G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB" 
+TailSpin.SpaceGame.Web.Startup

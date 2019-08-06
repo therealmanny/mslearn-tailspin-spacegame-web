@@ -1,0 +1,7 @@
+organization=therealmanny
+projectKey=space-game-web-8
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.184
+dashboardUrl=https://sonarcloud.io/dashboard?id=space-game-web-8
+ceTaskId=AWxic2_OSuEZ7Wgz0WDt
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWxic2_OSuEZ7Wgz0WDt
